@@ -1,0 +1,94 @@
+
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;   
+}
+.webdev{
+    
+    font-family: 'Montserrat' , serif;
+    font-size: 2rem;
+    color: #66BFBF; 
+}
+h1{
+    margin: 20 auto 0 auto;
+    font-family: 'Sacramento' , serif;
+    font-size: 5.50rem; 
+    color: #66BFBF;   
+}
+
+h2{
+    font-family: 'Montserrat' , serif;
+    font-weight: normal;
+}
+.myskills{
+    font-weight: bolder;
+    font-size: 2em;
+}
+
+h3 {
+    font-family: 'Montserrat' , serif;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+    
+}
+.middle-container{
+    background-color: #E4F9F5;
+    padding-top: 60px;
+}
+
+.bottom-container{
+    background-color: #E4F9F5;
+}
+
+.amanimg {
+    height: 200px;
+    width: 200px;
+}
+
+.topcloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottomcloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    
+}
+.htmlimg{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    
+}
+.cssimg{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.bootimg{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.javaimg{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skillhead{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
